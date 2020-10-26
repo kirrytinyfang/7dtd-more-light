@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="More Light" />
+		<Description value="Less heat from torches, candles, burningBurrel" />
+		<Author value="kirry tinyfang" />
+		<Version value="1.0" />
+		<Website value="https://github.com/kirrytinyfang/7dtd-more-light" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,5 @@
+<configs>
+    <set xpath="/blocks/block[@name='burningBarrelPlayer']/property[@name='HeatMapStrength']/@value">0.1</set>
+    <set xpath="/blocks/block[@name='candleWallLightPlayer']/property[@name='HeatMapStrength']/@value">0.025</set>
+    <set xpath="/blocks/block[@name='wallTorchLightPlayer']/property[@name='HeatMapStrength']/@value">0.1</set>
+</configs>
